@@ -1,0 +1,40 @@
+body{
+  background-color: #F5C3C2;
+}
+
+.text{
+  text-align: center;
+  font-size: 40px;
+}
+
+.gifs{
+  text-align: center;
+}
+
+button{
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 30px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+#lnk{
+  text-decoration: none;
+}
+
+#lnk:visited{
+  color: black;
+}
+
+.flex-parent {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+button.margin-right {
+  margin-right: 20px;
+}
